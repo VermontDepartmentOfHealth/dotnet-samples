@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleExcelReader", "SampleExcelReader\SampleExcelReader.csproj", "{AE24560F-B132-47A3-9457-5DF953576DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE24560F-B132-47A3-9457-5DF953576DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE24560F-B132-47A3-9457-5DF953576DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE24560F-B132-47A3-9457-5DF953576DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE24560F-B132-47A3-9457-5DF953576DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638B060F-4402-4BD2-A708-3948F30EEA00}
+	EndGlobalSection
+EndGlobal
